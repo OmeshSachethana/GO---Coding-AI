@@ -10,5 +10,5 @@ Thank you
 
 commands to run
 
-Frontend - npm run dev
+Frontend - npm run dev |
 Server- npm run server
