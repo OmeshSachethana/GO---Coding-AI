@@ -1,3 +1,4 @@
+//imported images
 import bot from './assets/botImg.png'
 import user from './assets/userImg.png'
 
