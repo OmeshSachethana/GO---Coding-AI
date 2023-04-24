@@ -6,4 +6,4 @@ Thank you
 
 commands to run
 
-Frontend - npm run dev | Server- npm run serve
+Frontend - npm run dev | Server- npm run server
